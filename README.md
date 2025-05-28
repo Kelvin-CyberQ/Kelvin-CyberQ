@@ -24,7 +24,7 @@ I'm deeply interested in cybersecurity and enjoy solving complex problems throug
 [twitter]: https://twitter.com/____Kelvin_______
 [youtube]: https://www.youtube.com/c/_____Kelvin______
 [instagram]: https://www.instagram.com/___Kelvin_______
-[linkedin]: https://linkedin.com/in/______Kelvin_____
+[linkedin]: https://linkedin.com/in/kelvin-quijada-196637170/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 

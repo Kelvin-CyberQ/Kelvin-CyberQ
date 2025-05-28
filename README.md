@@ -1,6 +1,6 @@
 # <a href=https://www.linkedin.com/in/kelvin-quijada-196637170/>Kelvin Quijada</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm deeply interested in cybersecurity and enjoy solving complex problems through hands on experience. Whether it’s vulnerability assessment or identifying threats, these projects have given me the chance to explore the dynamic and fast-changing world of cybersecurity. Feel free to take a look at my work and see how I’ve contributed to improving security operations and workflows!
 
 
 ## ⚠️ Vulnerability Management Projects

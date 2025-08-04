@@ -6,7 +6,7 @@ I'm deeply interested in cybersecurity and enjoy solving complex problems throug
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Kelvin-CyberQ/Vulnerability-Management-)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Kelvin-CyberQ/Programmatic-Vulnerability-Remediations/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Tor Poject](https://github.com/Kelvin-CyberQ/Threat-Hunting-Scenario/blob/main/README.md)**

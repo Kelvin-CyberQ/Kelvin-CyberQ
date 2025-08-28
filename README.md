@@ -11,6 +11,7 @@ I'm deeply interested in cybersecurity and enjoy solving complex problems throug
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Kelvin-CyberQ/Threat-Hunting-Scenario/blob/main/README.md)**
 - **[Brute Force InternetFacing VM- Azure Windows](https://github.com/Kelvin-CyberQ/InternetFacing-VM--Azure-Windows/blob/main/README.md)**
+- **[Sudden Network Slowdowns — Threat Hunting Investigation]()**
 
 <hr/>
 

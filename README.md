@@ -1,4 +1,4 @@
-# <a href=https://www.linkedin.com/in/kelvin-quijada-196637170/>Kelvin Quijada</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href=https://www.linkedin.com/in/kelvin-quijada-196637170/>Kelvin Quijada</a>'s Cybersecurity Project Portfolio 🔐
 
 I'm deeply interested in cybersecurity and enjoy solving complex problems through hands on experience. Whether it’s vulnerability assessment or identifying threats, these projects have given me the chance to explore the dynamic and fast-changing world of cybersecurity. Feel free to take a look at my work and see how I’ve contributed to improving security operations and workflows!
 
